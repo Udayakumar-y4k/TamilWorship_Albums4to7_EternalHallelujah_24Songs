@@ -40,9 +40,6 @@ every note declares:
 - Main collection cover artwork:  
   Album4to7_EternalHallelujah_Cover.jpg
 
-- Individual song folders (optional):  
-  Each contains single-song PDF lyrics + cover image
-
 ### Download & Share Freely
 
 All songs and lyrics are offered freely — no copyright restrictions.  

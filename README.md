@@ -42,6 +42,8 @@ every note declares:
 - Main collection cover artwork:  
   Album4to7_EternalHallelujah_Cover.jpg
 
+ Also available on Zenodo: https://zenodo.org/uploads/18334831
+
 ### Download & Share Freely
 
 All songs and lyrics are offered freely — no copyright restrictions.  
